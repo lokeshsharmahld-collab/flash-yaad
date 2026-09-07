@@ -1,0 +1,6 @@
+{
+  "name": "YaadKaro",
+  "description": "Offline-First Spaced Repetition Flashcard App using Leitner 5-box system",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

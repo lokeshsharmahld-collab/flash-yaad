@@ -1,0 +1,86 @@
+{
+  "name": "Banking & Economy Awareness",
+  "emoji": "🏦",
+  "cards": [
+    {
+      "front": "What is the Repo Rate determined by the Reserve Bank of India (RBI)?",
+      "back": "The rate at which the central bank (RBI) lends money to commercial banks against government securities to control liquidity and inflation."
+    },
+    {
+      "front": "What is Reverse Repo Rate?",
+      "back": "The rate at which the RBI borrows funds from commercial banks within the country, absorbing excess liquidity from the banking system."
+    },
+    {
+      "front": "What is Cash Reserve Ratio (CRR)?",
+      "back": "The specified minimum percentage of total Net Demand and Time Liabilities (NDTL) that commercial banks must maintain as liquid cash balance with the RBI without earning interest."
+    },
+    {
+      "front": "What is Statutory Liquidity Ratio (SLR)?",
+      "back": "The reserve requirement that commercial banks must maintain in the form of gold, cash, or approved government securities before providing credit to customers."
+    },
+    {
+      "front": "What is the primary objective of the Monetary Policy Committee (MPC) in India?",
+      "back": "To maintain price stability while keeping in mind the objective of growth. The inflation target set under Section 45ZA of RBI Act is 4% with a tolerance band of +/- 2% (2% to 6%)."
+    },
+    {
+      "front": "What is Gross Domestic Product (GDP)?",
+      "back": "The total monetary value of all finished goods and services produced within a country's domestic borders over a specific time period (usually a year or quarter)."
+    },
+    {
+      "front": "What is the difference between Nominal GDP and Real GDP?",
+      "back": "Nominal GDP evaluates output at current market prices without adjusting for inflation. Real GDP evaluates output at constant base-year prices, factoring out price level changes."
+    },
+    {
+      "front": "What is Fiscal Deficit?",
+      "back": "The difference between the Government's total expenditure and its total receipts (excluding borrowings). It indicates the total borrowing requirements of the government."
+    },
+    {
+      "front": "What is Headline Inflation vs Core Inflation?",
+      "back": "Headline Inflation measures the total inflation in an economy based on the Consumer Price Index (CPI) basket. Core Inflation excludes volatile food and fuel energy prices from headline index."
+    },
+    {
+      "front": "What is a Non-Performing Asset (NPA) in Indian banking?",
+      "back": "A loan or advance where interest and/or installment of principal remains overdue for a period of more than 90 days."
+    },
+    {
+      "front": "What does UPI stand for and which body developed it?",
+      "back": "Unified Payments Interface, developed by National Payments Corporation of India (NPCI) for instantaneous real-time interbank mobile fund transfers."
+    },
+    {
+      "front": "What is the Capital Adequacy Ratio (CAR) / CRAR?",
+      "back": "The ratio of a bank's capital to its risk-weighted assets and current liabilities. Designed to ensure banks can absorb reasonable amount of losses before becoming insolvent (Basel norms)."
+    },
+    {
+      "front": "What is the difference between Current Account Deficit (CAD) and Balance of Trade (BOT)?",
+      "back": "BOT measures net exports/imports of visible merchandise goods only. CAD is broader: includes goods, services, net income, and current transfers from abroad."
+    },
+    {
+      "front": "What is the difference between NEFT and RTGS?",
+      "back": "NEFT (National Electronic Funds Transfer) settles transactions in half-hourly batches without minimum amount limit. RTGS (Real Time Gross Settlement) settles continuously on an order-by-order basis with a minimum transaction of ₹2 Lakhs."
+    },
+    {
+      "front": "What is DICGC and what deposit insurance limit does it provide per depositor?",
+      "back": "Deposit Insurance and Credit Guarantee Corporation (subsidiary of RBI). It insures bank deposits up to ₹5 Lakhs per depositor across principal and interest in each insured bank."
+    },
+    {
+      "front": "What is Stagflation?",
+      "back": "An economic condition characterized by stagnant or slow economic growth, high unemployment, accompanied by relatively high inflation."
+    },
+    {
+      "front": "What is Primary Deficit?",
+      "back": "Fiscal Deficit minus Net Interest Payments on previous loans. It shows government borrowing requirement exclusively for current year operational expenditures."
+    },
+    {
+      "front": "What is Open Market Operations (OMO)?",
+      "back": "The purchase and sale of government securities in the open market by the RBI to inject or absorb permanent rupee liquidity in the banking system."
+    },
+    {
+      "front": "What is Marginal Standing Facility (MSF)?",
+      "back": "A penal window through which scheduled commercial banks can borrow overnight funds from RBI against SLR securities above the repo limit during acute liquidity shortage."
+    },
+    {
+      "front": "What is the Debt-to-GDP ratio and why is it important?",
+      "back": "The ratio between a country's total public sovereign debt and its annual Gross Domestic Product. It measures the country's capacity to service its debt burden sustainably."
+    }
+  ]
+}
