@@ -1,0 +1,86 @@
+{
+  "name": "General Science — NEET/SSC Terms",
+  "emoji": "🔬",
+  "cards": [
+    {
+      "front": "What is the primary function of Mitochondria in eukaryotic cells?",
+      "back": "Cellular respiration and synthesis of ATP (Adenosine Triphosphate) through oxidative phosphorylation, known as the 'powerhouse of the cell'."
+    },
+    {
+      "front": "What is the difference between Xylem and Phloem in plant vascular systems?",
+      "back": "Xylem transports water and dissolved minerals unidirectional upward from roots to leaves. Phloem translocates sugars (sucrose) and nutrients bidirectional from source to sink."
+    },
+    {
+      "front": "What does Newton's Third Law of Motion state?",
+      "back": "For every action, there is an equal and opposite reaction; forces always occur in matched action-reaction pairs acting on two different bodies."
+    },
+    {
+      "front": "What is the pH scale range, and what is neutral pH at 25°C?",
+      "back": "pH ranges from 0 to 14. A pH of 7 is neutral (equal concentration of H+ and OH- ions). Less than 7 is acidic; greater than 7 is alkaline/basic."
+    },
+    {
+      "front": "What hormone regulates blood glucose levels by promoting glucose uptake into cells?",
+      "back": "Insulin, secreted by beta cells in the Islets of Langerhans of the pancreas. Glucagon increases blood glucose by promoting glycogenolysis."
+    },
+    {
+      "front": "What is the difference between DNA and RNA in pentose sugar and nitrogenous bases?",
+      "back": "DNA contains deoxyribose sugar and thymine (A, T, G, C). RNA contains ribose sugar (has an extra -OH at 2' carbon) and uracil instead of thymine (A, U, G, C)."
+    },
+    {
+      "front": "What is the unit of electrical resistance and electrical conductance?",
+      "back": "Resistance: Ohm (Ω).\nConductance: Siemens (S) or Mho (Ω⁻¹)."
+    },
+    {
+      "front": "Explain the principle of Total Internal Reflection (TIR) and where it is applied.",
+      "back": "Occurs when light travels from an optically denser medium to a rarer medium at an angle of incidence greater than the critical angle. Applied in optical fiber cables, mirages, and diamond sparkle."
+    },
+    {
+      "front": "What blood group is the universal donor and universal recipient in the ABO system?",
+      "back": "Universal Donor: O negative (O-) — lacks A, B, and Rh antigens.\nUniversal Recipient: AB positive (AB+) — lacks anti-A, anti-B, and anti-Rh antibodies."
+    },
+    {
+      "front": "What is Avogadro's constant and what does it represent?",
+      "back": "6.022 × 10²³ particles per mole. It is the number of atoms, molecules, or ions contained in exactly one mole of a substance."
+    },
+    {
+      "front": "What is Boyle's Law formula for an ideal gas at constant temperature?",
+      "back": "P₁V₁ = P₂V₂ (Pressure is inversely proportional to volume at constant temperature and fixed mass of gas)."
+    },
+    {
+      "front": "Which vitamin deficiency causes Scurvy, Rickets, and Night Blindness?",
+      "back": "Scurvy: Vitamin C (Ascorbic acid)\nRickets: Vitamin D (Calciferol)\nNight Blindness: Vitamin A (Retinol)"
+    },
+    {
+      "front": "What is the function of Ribosomes in cells?",
+      "back": "Sites of protein synthesis (translation), assembling amino acids into polypeptide chains guided by mRNA sequences."
+    },
+    {
+      "front": "What is Doppler Effect in wave physics?",
+      "back": "The apparent change in observed frequency/pitch of a wave caused by relative motion between the wave source and the observer."
+    },
+    {
+      "front": "What is the chemical formula of Baking Soda and Washing Soda?",
+      "back": "Baking Soda: Sodium Bicarbonate (NaHCO₃)\nWashing Soda: Sodium Carbonate Decahydrate (Na₂CO₃·10H₂O)"
+    },
+    {
+      "front": "What is the speed of light in a vacuum?",
+      "back": "Approximately 3 × 10⁸ meters per second (299,792,458 m/s)."
+    },
+    {
+      "front": "What is an Enzyme and how does it speed up chemical reactions?",
+      "back": "A biological catalyst (primarily protein) that accelerates reactions by lowering the activation energy barrier without being consumed in the process."
+    },
+    {
+      "front": "What is Bernoulli's Principle in fluid dynamics?",
+      "back": "As the speed of a moving fluid (liquid or gas) increases, the internal pressure within the fluid simultaneously decreases."
+    },
+    {
+      "front": "What are Isotopes, Isobars, and Isotones?",
+      "back": "Isotopes: Same atomic number (protons), different mass number.\nIsobars: Same mass number, different atomic number.\nIsotones: Same number of neutrons."
+    },
+    {
+      "front": "What is the greenhouse gas that contributes the most to global warming by radiative forcing?",
+      "back": "Carbon dioxide (CO₂), followed by Methane (CH₄) and Nitrous oxide (N₂O). Water vapor is the most abundant natural greenhouse gas."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "name": "JavaScript Interview Basics",
+  "emoji": "⚡",
+  "cards": [
+    {
+      "front": "What is the difference between 'let', 'const', and 'var' regarding scoping?",
+      "back": "'var' is function-scoped (or globally scoped) and gets hoisted with undefined. 'let' and 'const' are block-scoped and exist in the Temporal Dead Zone (TDZ) before declaration."
+    },
+    {
+      "front": "What is a Closure in JavaScript?",
+      "back": "A closure is the combination of a function bundled together with references to its surrounding state (the lexical environment). It gives an inner function access to an outer function's scope even after the outer function has returned."
+    },
+    {
+      "front": "Explain the Event Loop in JavaScript runtime.",
+      "back": "The Event Loop continuously monitors the Call Stack and the Task Queue (Microtask queue and Macrotask queue). When the Call Stack is empty, it pushes tasks from queues to the stack, prioritizing microtasks (Promises, queueMicrotask) over macrotasks (setTimeout, setInterval)."
+    },
+    {
+      "front": "What is the difference between '==' and '==='?",
+      "back": "'==' performs type coercion before comparing values (e.g. 5 == '5' is true). '===' is strict equality and checks both value and type without coercion (5 === '5' is false)."
+    },
+    {
+      "front": "What does the 'this' keyword refer to in arrow functions vs regular functions?",
+      "back": "Regular functions bind 'this' dynamically based on how the function is invoked. Arrow functions do not have their own 'this'; they lexically inherit 'this' from the enclosing execution context."
+    },
+    {
+      "front": "What is prototypal inheritance?",
+      "back": "Every JavaScript object has an internal [[Prototype]] link to another object. When a property or method is accessed and not found on the object itself, JS traverses up the prototype chain until found or reaching null."
+    },
+    {
+      "front": "What is the difference between undefined and null?",
+      "back": "'undefined' means a variable has been declared but has not yet been assigned a value. 'null' is an intentional assignment representing the intentional absence of any object value."
+    },
+    {
+      "front": "What is debouncing and when should you use it?",
+      "back": "Debouncing delays the execution of a function until a specified time has passed since the last time it was called. Commonly used in search bar input fields and window resize handlers."
+    },
+    {
+      "front": "What is throttling?",
+      "back": "Throttling guarantees that a function is executed at most once in a given interval of time. Commonly used for scroll events and game loop rendering."
+    },
+    {
+      "front": "Explain Promise.all vs Promise.allSettled.",
+      "back": "Promise.all rejects immediately if any promise in the array rejects. Promise.allSettled waits for all promises to either resolve or reject and returns an array of status objects."
+    },
+    {
+      "front": "What is currying in functional programming?",
+      "back": "Currying is transforming a function with multiple arguments f(a, b, c) into a sequence of nested unary functions f(a)(b)(c)."
+    },
+    {
+      "front": "How do you check if a property exists directly on an object rather than its prototype chain?",
+      "back": "Using Object.hasOwn(obj, prop) or Object.prototype.hasOwnProperty.call(obj, prop)."
+    },
+    {
+      "front": "What is the purpose of WeakMap and WeakSet?",
+      "back": "WeakMap and WeakSet hold 'weak' references to object keys/values, meaning if no other references exist, the entries can be garbage-collected, preventing memory leaks."
+    },
+    {
+      "front": "What are Generator functions and the 'yield' keyword?",
+      "back": "Functions defined with function* that can be exited and later re-entered. Calling a generator returns an Iterator whose next() method resumes execution until the next yield expression."
+    },
+    {
+      "front": "What is event bubbling vs event capturing?",
+      "back": "Capturing (trickling) goes from the window down to the target element. Bubbling travels upward from the target element back up to window. Standard addEventListener defaults to bubbling."
+    },
+    {
+      "front": "What is deep copy vs shallow copy?",
+      "back": "A shallow copy duplicates only the top-level properties (Object.assign, spread {...}). Nested objects still share references. A deep copy (structuredClone or recursive copy) duplicates all nested objects independently."
+    },
+    {
+      "front": "What is the Temporal Dead Zone (TDZ)?",
+      "back": "The period between entering the scope where a let/const variable is declared and the actual line where it is initialized. Accessing it in the TDZ throws a ReferenceError."
+    },
+    {
+      "front": "Explain Array.prototype.reduce().",
+      "back": "Executes a reducer function on each array element, passing the accumulated result from previous iterations, returning a single combined value."
+    },
+    {
+      "front": "What are JavaScript Symbols used for?",
+      "back": "Symbols are unique, immutable primitive values used as non-enumerable object property keys to avoid accidental name collisions and implement well-known hooks (Symbol.iterator)."
+    },
+    {
+      "front": "How does async/await work under the hood?",
+      "back": "async/await is syntactic sugar over Promises and Generators. An async function wraps returned values in Promise.resolve and uses the event loop to resume execution upon promise resolution."
+    }
+  ]
+}

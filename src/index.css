@@ -1,19 +1,29 @@
 @import "tailwindcss";
 
-@custom-variant dark (&:where(.dark, .dark *));
+/* 3D Card Flip Transforms */
+.perspective-1000 {
+  perspective: 1000px;
+}
 
-@layer base {
-  :root {
-    --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  }
+.transform-style-preserve-3d {
+  transform-style: preserve-3d;
+}
 
-  html {
-    font-family: var(--font-sans);
-    -webkit-tap-highlight-color: transparent;
-  }
+.backface-hidden {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
 
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+@media print {
   body {
-    min-height: 100vh;
-    overflow-x: hidden;
+    background: #ffffff !important;
+    color: #000000 !important;
+  }
+  .no-print {
+    display: none !important;
   }
 }

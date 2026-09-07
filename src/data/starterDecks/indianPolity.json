@@ -1,0 +1,86 @@
+{
+  "name": "Indian Polity — Key Articles",
+  "emoji": "🇮🇳",
+  "cards": [
+    {
+      "front": "Article 14 of the Indian Constitution guarantees which fundamental right?",
+      "back": "Equality before the law and equal protection of the laws within the territory of India to all persons (citizens and foreigners)."
+    },
+    {
+      "front": "What does Article 21 protect, and how was it expanded in the Maneka Gandhi case (1978)?",
+      "back": "Protection of life and personal liberty. It cannot be deprived except according to 'procedure established by law', which must be just, fair, and reasonable (due process of law)."
+    },
+    {
+      "front": "Which Article provides the Right to Constitutional Remedies (termed the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar)?",
+      "back": "Article 32 — empowers citizens to approach the Supreme Court directly for enforcement of Fundamental Rights via 5 types of writs."
+    },
+    {
+      "front": "What are the five constitutional writs issued under Article 32 and Article 226?",
+      "back": "1. Habeas Corpus (produce the body)\n2. Mandamus (we command a public duty)\n3. Prohibition (stop a lower court)\n4. Certiorari (quash an illegal order)\n5. Quo-Warranto (by what authority)"
+    },
+    {
+      "front": "Which Article provides the Right to Education for children aged 6 to 14 years?",
+      "back": "Article 21A — inserted by the 86th Constitutional Amendment Act, 2002."
+    },
+    {
+      "front": "What is Article 44 in the Directive Principles of State Policy (DPSP)?",
+      "back": "Uniform Civil Code (UCC) for all citizens throughout the territory of India."
+    },
+    {
+      "front": "Which Article deals with the amendment procedure of the Constitution?",
+      "back": "Article 368 — gives Parliament constituent power to amend provisions by special majority (subject to the Basic Structure doctrine)."
+    },
+    {
+      "front": "What does Article 51A contain?",
+      "back": "Fundamental Duties of Indian citizens — originally 10 duties added by the 42nd Amendment Act (1976), 11th added by the 86th Amendment Act (2002)."
+    },
+    {
+      "front": "What are the three types of Emergencies provided under the Constitution?",
+      "back": "1. Article 352: National Emergency (war, external aggression, or armed rebellion)\n2. Article 356: President's Rule (breakdown of constitutional machinery in a State)\n3. Article 360: Financial Emergency"
+    },
+    {
+      "front": "Under which Article can the President grant pardons, reprieves, or remissions?",
+      "back": "Article 72 gives the President pardoning powers; Article 161 gives corresponding powers to State Governors."
+    },
+    {
+      "front": "Which Article establishes the Election Commission of India?",
+      "back": "Article 324 — vests superintendence, direction, and control of elections to Parliament, State Legislatures, President, and Vice President."
+    },
+    {
+      "front": "What is the Money Bill defined under, and can Rajya Sabha amend it?",
+      "back": "Article 110. The Speaker of Lok Sabha certifies it. Rajya Sabha cannot amend or reject a Money Bill; it can only make recommendations within 14 days."
+    },
+    {
+      "front": "Which Article establishes the Comptroller and Auditor General of India (CAG)?",
+      "back": "Article 148 — CAG is appointed by the President and acts as the guardian of the public purse."
+    },
+    {
+      "front": "What does Article 280 provide for?",
+      "back": "Finance Commission — constituted by the President every 5 years to recommend tax devolution between Union and States."
+    },
+    {
+      "front": "Which Article grants High Courts the power to issue writs?",
+      "back": "Article 226 — its scope is broader than Article 32 because it can issue writs for both Fundamental Rights and any other legal right."
+    },
+    {
+      "front": "What is Article 75(3) regarding Council of Ministers' responsibility?",
+      "back": "The Council of Ministers shall be collectively responsible to the Lok Sabha (House of the People)."
+    },
+    {
+      "front": "Which constitutional amendment introduced the Panchayati Raj system?",
+      "back": "73rd Constitutional Amendment Act, 1992 — added Part IX and the 11th Schedule (29 functional items)."
+    },
+    {
+      "front": "Which Article prohibits untouchability?",
+      "back": "Article 17 — abolishes untouchability and forbids its practice in any form as a punishable offense."
+    },
+    {
+      "front": "What is Article 123 of the Constitution?",
+      "back": "Power of the President to promulgate Ordinances during the recess of Parliament."
+    },
+    {
+      "front": "Which landmark Supreme Court judgment established the Basic Structure Doctrine?",
+      "back": "Kesavananda Bharati v. State of Kerala (1973) — ruled Parliament cannot alter the essential features or basic structure of the Constitution under Article 368."
+    }
+  ]
+}
